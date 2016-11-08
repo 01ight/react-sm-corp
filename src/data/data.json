@@ -1,0 +1,10 @@
+[
+        {
+            "profile" : "user" , 
+            "tweets" : 3 
+        } ,
+         {
+            "profile" : "admin" , 
+            "tweets" : 4
+        }
+]
